@@ -10,7 +10,7 @@
 
 - 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.
 
-- 🧠 I'm currently learning how to become an **Enterprise Django Developer.**
+- 🧠 I'm currently learning **Enterprise Django Development.**
 
 - 👯‍♀️ I'm looking to collaborate on open-source projects.
 
@@ -22,3 +22,7 @@
 
 # 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Pyhton-blue)  ![Python](https://img.shields.io/badge/Django-darkgreen)  ![Python](https://img.shields.io/badge/HTML-orange) ![Python](https://img.shields.io/badge/CSS-purple) ![Python](https://img.shields.io/badge/JavaScript-yellow) ![Python](https://img.shields.io/badge/Bootstrap-purple) ![Python](https://img.shields.io/badge/DjangoRESTAPIs-black) ![Python](https://img.shields.io/badge/SQLserver-orange) ![Python](https://img.shields.io/badge/MySQL-blue) ![Python](https://img.shields.io/badge/PostgreSQL-blue) ![Python](https://img.shields.io/badge/Git-indigo) ![Python](https://img.shields.io/badge/Github-black) ![Python](https://img.shields.io/badge/Docker-blue)
+<br>
+<br>
+
+![Danogbans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danogbans&show_icons=true&theme=transparent)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danogbans&layout=donut)
