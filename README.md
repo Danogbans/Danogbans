@@ -2,4 +2,4 @@
    Hi, I'm Daniel!
  </h1>
  <br>
- ![background-image](https://www.linkedin.com/in/danogbans/overlay/background-image/)
+ ![banner](https://drive.google.com/drive/u/0/my-drive/banner.png)
