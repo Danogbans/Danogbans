@@ -10,11 +10,11 @@
 
 - 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.
 
-- 🧠 I'm currently learning **Enterprise Django Development.**
+- 🧠 I'm currently learning **JavaScript**.
 
-- 👯‍♀️ I'm looking to collaborate on open-source projects.
+- 👯‍♀️ I'm looking to collaborate on **open-source projects.**
 
-- 💬 Ask me about **Python & Django**.
+- 💬 Ask me about **Enterprise Python & Django Development**.
 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/danogbans/).
 <br>
