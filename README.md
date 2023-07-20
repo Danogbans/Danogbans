@@ -31,6 +31,6 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#596](https://github.com/atapas/fork-me/pull/596) in [atapas/fork-me](https://github.com/atapas/fork-me)
-2. ❗ Opened issue [#7857](https://github.com/EddieHubCommunity/support/issues/7857) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#2975](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2975) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#596](https://github.com/atapas/fork-me/pull/596) in [atapas/fork-me](https://github.com/atapas/fork-me)
 <!--END_SECTION:activity-->
