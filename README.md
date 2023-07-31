@@ -35,3 +35,5 @@
 2. 💪 Opened PR [#596](https://github.com/atapas/fork-me/pull/596) in [atapas/fork-me](https://github.com/atapas/fork-me)
 <!--END_SECTION:activity-->
 
+#
+![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge)
