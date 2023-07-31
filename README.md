@@ -34,6 +34,5 @@
 1. 💪 Opened PR [#2975](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2975) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 2. 💪 Opened PR [#596](https://github.com/atapas/fork-me/pull/596) in [atapas/fork-me](https://github.com/atapas/fork-me)
 <!--END_SECTION:activity-->
-
 #
 ![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge)
