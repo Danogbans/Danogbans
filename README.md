@@ -30,8 +30,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2975](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2975) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#596](https://github.com/atapas/fork-me/pull/596) in [atapas/fork-me](https://github.com/atapas/fork-me)
+1. 🗣 Commented on [#1](https://github.com/Danogbans/github-task/pull/1#issuecomment-1712904785) in [Danogbans/github-task](https://github.com/Danogbans/github-task)
+2. 🎉 Merged PR [#1](https://github.com/Danogbans/github-task/pull/1) in [Danogbans/github-task](https://github.com/Danogbans/github-task)
 <!--END_SECTION:activity-->
 #
 ![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge)
