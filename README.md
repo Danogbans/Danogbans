@@ -30,8 +30,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Danogbans/github-task/pull/1#issuecomment-1712904785) in [Danogbans/github-task](https://github.com/Danogbans/github-task)
-2. 🎉 Merged PR [#1](https://github.com/Danogbans/github-task/pull/1) in [Danogbans/github-task](https://github.com/Danogbans/github-task)
+1. 🎉 Merged PR [#2](https://github.com/Danogbans/github-task/pull/2) in [Danogbans/github-task](https://github.com/Danogbans/github-task)
+2. 💪 Opened PR [#3](https://github.com/RickHalmoguera/tarea-github/pull/3) in [RickHalmoguera/tarea-github](https://github.com/RickHalmoguera/tarea-github)
 <!--END_SECTION:activity-->
 #
 ![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge)
