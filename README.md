@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Enterprise Python & Django Development**.
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/danogbans/).
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/danogbans/). 
 <br>
 
 # 🛠 Languages and Tools
