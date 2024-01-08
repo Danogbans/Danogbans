@@ -8,7 +8,7 @@
 <br>
 
 
-- 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.        
+- 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.         
 
 - 🧠 I'm currently learning more **TypeScript**.
 
