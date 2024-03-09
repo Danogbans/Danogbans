@@ -10,7 +10,7 @@
 
 - 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.          
 
-- 🧠 I'm currently learning m **TypeScript**.
+- 🧠 I'm currently learning  **TypeScript**.
 
 - 👯‍♀️ I'm looking to collaborate on **open-source projects.**
 
