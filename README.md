@@ -34,4 +34,4 @@
 2. 💪 Opened PR [#3](https://github.com/RickHalmoguera/tarea-github/pull/3) in [RickHalmoguera/tarea-github](https://github.com/RickHalmoguera/tarea-github)
 <!--END_SECTION:activity-->
 #
-![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Danogbans&style=for-the-badge) 
