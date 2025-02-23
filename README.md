@@ -8,7 +8,7 @@
 <br>
 
 
-- 👩‍💻 Currently working on **E-learning platform app** with chatbot and recommendation system using Python, Django, HTML, CSS, JavaScript, SQLite.          
+- 👩‍💻 Currently working on **Task Manager API** with JWT authentication and notification system using Python, Django, Django REST Framework, Django Signals, SQLite.          
 
 - 🧠 I'm currently learning **TypeScript**.
 
